@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hai, saya Krisna Sanjaya 👋
 
-<!--
-**krisna-sanjaya/krisna-sanjaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mahasiswa Teknologi Informasi semester 5 di UIN Walisongo Semarang
+dengan minat pada **pengembangan web** dan **infrastruktur jaringan**.
 
-Here are some ideas to get you started:
+## 🛠️ Keahlian
+- **Jaringan:** Cisco Packet Tracer, Static & Dynamic Routing (RIP), VLAN, DHCP/DNS, Firewall
+- **Web & Desain:** Pemrograman Web, UI/UX, Figma
+- **Lainnya:** Microsoft Excel, Microsoft Word
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Proyek Pilihan
+- **SantriMart** - Platform web pemasaran produk pesantren (Digdaya x Hackathon 2026)
+- **Network Lab** - Konfigurasi routing, VLAN, DHCP/DNS, dan firewall
+- **Smart Home** - Sistem smart home berbasis perangkat Bardi
+
+## 📫 Kontak
+- Email: krisnasanjaya011@gmail.com
+- Portofolio: [krisna-sanjaya.github.io](https://krisna-sanjaya.github.io)
